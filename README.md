@@ -12,4 +12,4 @@ Thursday, 12 March 2026 by 4:15 PM
 
 ## Project Overview
 
-Click `src/wdata_wrangling_activity.ipynb`
+Click `src/data_wrangling_activity.ipynb`
